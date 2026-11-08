@@ -1,19 +1,17 @@
-/*  your css code here. If applicable */
 
-h2 {
-    text-align: center;
-}
-
-.middle {
+table {
     width: 80%;
     border: 1px solid black;
     border-spacing: 1px;
-    margin: 20px auto;
 }
 
-.middle td {
+td {
     border: 1px solid black;
     padding: 1px;
+}
+
+#table-1 {
+    width: 80%;
 }
 
 .center {
@@ -32,8 +30,7 @@ h2 {
     background-color: blue;
 }
 
-#table-3 img {
+#t-image img {
     width: 200px;
-    height: 150px;
-    display: block;
+    height: 140px;
 }
